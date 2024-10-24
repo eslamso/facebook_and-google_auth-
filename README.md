@@ -2,6 +2,18 @@
 
 This project demonstrates how to implement Facebook and Google OAuth authentication using Passport.js in a Node.js and Express application.
 
+## Technologies Used
+
+- **Node.js**: A JavaScript runtime built on Chrome's V8 JavaScript engine.
+- **Express.js**: A minimal and flexible Node.js web application framework.
+- **Passport.js**: Authentication middleware for Node.js, used for Facebook and Google OAuth authentication.
+- **OAuth 2.0**: An authorization framework that enables third-party applications to obtain limited access to user accounts.
+- **Google OAuth 2.0**: Used to allow users to sign in with their Google accounts.
+- **Facebook OAuth 2.0**: Used to allow users to sign in with their Facebook accounts.
+- **EJS (Embedded JavaScript)**: A simple templating language that lets you generate HTML markup with plain JavaScript.
+- **Mongoose**: An ODM (Object Data Modeling) library for MongoDB and Node.js.
+- **MongoDB**: A NoSQL database used for storing user information.
+
 ## Features
 
 - OAuth 2.0 authentication with Facebook and Google.
